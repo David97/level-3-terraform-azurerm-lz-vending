@@ -68,11 +68,6 @@ jobs:
     - name: Checkout
       uses: actions/checkout@v4
 
-    - name: Load SSH Key to git clone module
-      uses: webfactory/ssh-agent@v0.9.0
-      with:
-          ssh-private-key: ${{ secrets.DAVID97_PRIVATE_KEY }}
-
     # Install the latest version of Terraform CLI and configure the Terraform CLI configuration file with a Terraform Cloud user API token
     - name: Setup Terraform
       uses: hashicorp/setup-terraform@v1
