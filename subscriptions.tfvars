@@ -4,16 +4,16 @@ lz_vending = {
   #   alias    = "HenrySubscription1"
   #   name     = "Henry Subscription 1"
   # }
-  subscription2 = {
-    location = "eastasia"
-    alias    = "HenrySubscription2"
-    name     = "Henry Subscription 2"
-  }
-  subscription3 = {
-    location = "eastasia"
-    alias    = "HenrySubscription3"
-    name     = "Henry Subscription 3"
-  }
+  # subscription2 = {
+  #   location = "eastasia"
+  #   alias    = "HenrySubscription2"
+  #   name     = "Henry Subscription 2"
+  # }
+  # subscription3 = {
+  #   location = "eastasia"
+  #   alias    = "HenrySubscription3"
+  #   name     = "Henry Subscription 3"
+  # }
   # subscription4 = {
   #   location = "eastasia"
   #   alias    = "HenrySubscription4"
