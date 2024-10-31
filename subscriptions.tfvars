@@ -9,11 +9,11 @@ lz_vending = {
     alias    = "HenrySubscription2"
     name     = "Henry Subscription 2"
   }
-  subscription3 = {
-    location = "eastasia"
-    alias    = "HenrySubscription3"
-    name     = "Henry Subscription 3"
-  }
+  # subscription3 = {
+  #   location = "eastasia"
+  #   alias    = "HenrySubscription3"
+  #   name     = "Henry Subscription 3"
+  # }
   # subscription4 = {
   #   location = "eastasia"
   #   alias    = "HenrySubscription4"
