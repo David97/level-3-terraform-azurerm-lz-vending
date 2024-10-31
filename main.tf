@@ -8,6 +8,10 @@ terraform {
       source  = "Azure/azapi"
       version = "~> 2.0"
     }
+    time = {
+      source  = "hashicorp/time"
+      version = ">= 0.9.1"
+    }
   }
   cloud {
     # The name of your Terraform Cloud organization.
