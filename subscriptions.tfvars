@@ -1,9 +1,9 @@
 lz_vending = {
-  # subscription1 = {
-  #   location = "eastasia"
-  #   alias    = "HenrySubscription1"
-  #   name     = "Henry Subscription 1"
-  # }
+  subscription1 = {
+    location = "eastasia"
+    alias    = "SharedServiceSubscription"
+    name     = "Shared Service Subscription"
+  }
   # subscription2 = {
   #   location = "eastasia"
   #   alias    = "HenrySubscription2"
