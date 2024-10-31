@@ -4,6 +4,10 @@ terraform {
       source  = "hashicorp/azurerm"
       version = "~> 3.7.0"
     }
+    azapi = {
+      source  = "Azure/azapi"
+      version = "~> 1.15"
+    }
   }
   cloud {
     # The name of your Terraform Cloud organization.
