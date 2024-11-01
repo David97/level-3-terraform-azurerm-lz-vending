@@ -9,10 +9,10 @@ lz_vending = {
     alias    = "NetworkServiceSubscription"
     name     = "Network Service Subscription"
   }
-  identity-subscription = {
-    location = "eastasia"
-    alias    = "IdentitySubscription"
-    name     = "Identity Subscription"
-  }
+  # identity-subscription = {
+  #   location = "eastasia"
+  #   alias    = "IdentitySubscription"
+  #   name     = "Identity Subscription"
+  # }
 }
 
